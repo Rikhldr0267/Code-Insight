@@ -1,4 +1,4 @@
 
-| Qu no | Title       |  Solution   | Tags |      | Time   | Space  | Difficulty  |     | Approach    | 
+| Qu no | Title       |  Solution   | Topic |      | Time   | Space  | Difficulty  |     | Approach    | 
 | --    | ----------- | ----------- | ---  | ---- | -----  |  ---   | ----------- | --- | ----------- |
 | 1     | -----       | ----------- |  ||  |  |  ||  |
